@@ -1,0 +1,27 @@
+[
+  {
+    "id": 101
+    ,"BaseAttack": 10
+    ,"BaseDefense": 1
+  }
+  ,{
+    "id": 102
+    ,"BaseAttack": 10
+    ,"BaseDefense": 1
+  }
+  ,{
+    "id": 103
+    ,"BaseAttack": 10
+    ,"BaseDefense": 1
+  }
+  ,{
+    "id": 105
+    ,"BaseAttack": 10
+    ,"BaseDefense": 1
+  }
+  ,{
+    "id": 106
+    ,"BaseAttack": 10
+    ,"BaseDefense": 1
+  }
+]

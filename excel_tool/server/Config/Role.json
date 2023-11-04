@@ -1,0 +1,117 @@
+[
+  {
+    "Id": 101
+    ,"Name": "Lancelot"
+    ,"Resource": "Prefab/Role/Lancelot/Lancelot_Prefab"
+    ,"BaseMaxHP": 1000000
+    ,"BaseMaxMP": 100
+    ,"BaseAttack": 10
+    ,"BaseDefense": 1
+    ,"Resist": 5
+    ,"BaseDeCrit": 100
+    ,"BaseDeSuppress": 100
+    ,"BaseDeCurse": 100
+    ,"BaseRestoreHP": 1
+    ,"BaseRestoreMP": 1
+    ,"WalkSpeed": 5
+    ,"QuickSpeed": 30
+    ,"FindRange": 5
+    ,"FindAngle": 360
+    ,"AttackRange": 3
+    ,"DamageAngle": 180
+    ,"CanBeAttack": 1
+    ,"AttackActionId": 10101
+  }
+  ,{
+    "Id": 102
+    ,"Name": "Atalanta"
+    ,"Resource": "Prefab/Role/Atalanta/Atalanta_Prefab"
+    ,"BaseMaxHP": 1000000
+    ,"BaseMaxMP": 100
+    ,"BaseAttack": 10
+    ,"BaseDefense": 1
+    ,"Resist": 5
+    ,"BaseDeCrit": 100
+    ,"BaseDeSuppress": 100
+    ,"BaseDeCurse": 100
+    ,"BaseRestoreHP": 1
+    ,"BaseRestoreMP": 1
+    ,"WalkSpeed": 5
+    ,"QuickSpeed": 20
+    ,"FindRange": 20
+    ,"FindAngle": 360
+    ,"AttackRange": 9
+    ,"DamageAngle": 180
+    ,"CanBeAttack": 1
+    ,"AttackActionId": 10201
+  }
+  ,{
+    "Id": 103
+    ,"Name": "Frankenstein"
+    ,"Resource": "Prefab/Role/Frankenstein/frankenstein_Prefab"
+    ,"BaseMaxHP": 10000
+    ,"BaseMaxMP": 100
+    ,"BaseAttack": 10
+    ,"BaseDefense": 1
+    ,"Resist": 5
+    ,"BaseDeCrit": 100
+    ,"BaseDeSuppress": 100
+    ,"BaseDeCurse": 100
+    ,"BaseRestoreHP": 1
+    ,"BaseRestoreMP": 1
+    ,"WalkSpeed": 5
+    ,"QuickSpeed": 30
+    ,"FindRange": 5
+    ,"FindAngle": 360
+    ,"AttackRange": 3
+    ,"DamageAngle": 180
+    ,"CanBeAttack": 1
+    ,"AttackActionId": 0
+  }
+  ,{
+    "Id": 105
+    ,"Name": "Fashixiaobing"
+    ,"Resource": "Prefab/Role/fashixiaobing/fashixiaobing"
+    ,"BaseMaxHP": 10000
+    ,"BaseMaxMP": 100
+    ,"BaseAttack": 10
+    ,"BaseDefense": 1
+    ,"Resist": 5
+    ,"BaseDeCrit": 100
+    ,"BaseDeSuppress": 100
+    ,"BaseDeCurse": 100
+    ,"BaseRestoreHP": 1
+    ,"BaseRestoreMP": 1
+    ,"WalkSpeed": 5
+    ,"QuickSpeed": 30
+    ,"FindRange": 50
+    ,"FindAngle": 360
+    ,"AttackRange": 9
+    ,"DamageAngle": 180
+    ,"CanBeAttack": 1
+    ,"AttackActionId": 10501
+  }
+  ,{
+    "Id": 106
+    ,"Name": "Jumozhanjiang"
+    ,"Resource": "Prefab/Role/jumozhanjiang/jumozhanjiang_Prefab"
+    ,"BaseMaxHP": 10000
+    ,"BaseMaxMP": 100
+    ,"BaseAttack": 10
+    ,"BaseDefense": 1
+    ,"Resist": 5
+    ,"BaseDeCrit": 100
+    ,"BaseDeSuppress": 100
+    ,"BaseDeCurse": 100
+    ,"BaseRestoreHP": 1
+    ,"BaseRestoreMP": 1
+    ,"WalkSpeed": 5
+    ,"QuickSpeed": 30
+    ,"FindRange": 50
+    ,"FindAngle": 360
+    ,"AttackRange": 3
+    ,"DamageAngle": 180
+    ,"CanBeAttack": 1
+    ,"AttackActionId": 10601
+  }
+]

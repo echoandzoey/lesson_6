@@ -1,0 +1,7 @@
+{
+  "git.ignoreLimitWarning": true,
+  "Lua.workspace.library": [
+    "${3rd}/skynet/library"
+  ],
+  "Lua.workspace.checkThirdParty": false
+}

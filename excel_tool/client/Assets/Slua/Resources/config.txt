@@ -1,0 +1,23 @@
+-- Coding Format : UTF-8
+
+local class = {}
+
+local json = require "json"
+
+local function local_config_test()
+	local str = ConfigLoader.Load("Role")
+	local roleConfig = json.decode(str)
+	print(roleConfig[4].Id .. ' ' .. roleConfig[4].BaseMaxHP)
+end
+
+-------------------------------------
+
+function class:config_test(info)
+	local_config_test()
+end
+
+-------------------------------------
+
+function main()
+	return class
+end

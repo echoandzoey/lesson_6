@@ -1,0 +1,112 @@
+[
+  {
+    "Id": 10101
+    ,"Name": "兰斯洛特普攻"
+    ,"Interrupt": 1
+    ,"SpellActionType": 0
+    ,"MPTriggerConsumption": 10
+    ,"MPTimeConsumption": 10
+    ,"IndependentCoolingTime": 1
+    ,"CommonCoolingTime": 0
+  }
+  ,{
+    "Id": 10102
+    ,"Name": "兰斯洛特群蜂乱舞"
+    ,"Interrupt": 1
+    ,"SpellActionType": 2
+    ,"MPTriggerConsumption": 10
+    ,"MPTimeConsumption": 10
+    ,"IndependentCoolingTime": 1
+    ,"CommonCoolingTime": 0
+  }
+  ,{
+    "Id": 10103
+    ,"Name": "兰斯洛特永恒寂静"
+    ,"Interrupt": 0
+    ,"SpellActionType": 4
+    ,"MPTriggerConsumption": 10
+    ,"MPTimeConsumption": 10
+    ,"IndependentCoolingTime": 1
+    ,"CommonCoolingTime": 0
+  }
+  ,{
+    "Id": 10201
+    ,"Name": "阿塔兰忒普攻"
+    ,"Interrupt": 1
+    ,"SpellActionType": 0
+    ,"MPTriggerConsumption": 10
+    ,"MPTimeConsumption": 10
+    ,"IndependentCoolingTime": 1
+    ,"CommonCoolingTime": 0
+  }
+  ,{
+    "Id": 10202
+    ,"Name": "阿塔兰忒机枪持续攻击"
+    ,"Interrupt": 1
+    ,"SpellActionType": 2
+    ,"MPTriggerConsumption": 10
+    ,"MPTimeConsumption": 10
+    ,"IndependentCoolingTime": 1
+    ,"CommonCoolingTime": 0
+  }
+  ,{
+    "Id": 10302
+    ,"Name": "弗兰肯斯坦召唤"
+    ,"Interrupt": 1
+    ,"SpellActionType": 0
+    ,"MPTriggerConsumption": 10
+    ,"MPTimeConsumption": 10
+    ,"IndependentCoolingTime": 1
+    ,"CommonCoolingTime": 0
+  }
+  ,{
+    "Id": 10303
+    ,"Name": "弗兰肯斯坦鬼气"
+    ,"Interrupt": 1
+    ,"SpellActionType": 0
+    ,"MPTriggerConsumption": 10
+    ,"MPTimeConsumption": 10
+    ,"IndependentCoolingTime": 1
+    ,"CommonCoolingTime": 0
+  }
+  ,{
+    "Id": 10501
+    ,"Name": "法师小兵普攻"
+    ,"Interrupt": 1
+    ,"SpellActionType": 0
+    ,"MPTriggerConsumption": 10
+    ,"MPTimeConsumption": 10
+    ,"IndependentCoolingTime": 1
+    ,"CommonCoolingTime": 0
+  }
+  ,{
+    "Id": 10601
+    ,"Name": "巨魔战将普攻"
+    ,"Interrupt": 1
+    ,"SpellActionType": 0
+    ,"MPTriggerConsumption": 10
+    ,"MPTimeConsumption": 10
+    ,"IndependentCoolingTime": 1
+    ,"CommonCoolingTime": 0
+  }
+  ,{
+    "Id": 10701
+    ,"Name": "男英雄普攻"
+    ,"Interrupt": 1
+    ,"SpellActionType": 0
+    ,"MPTriggerConsumption": 10
+    ,"MPTimeConsumption": 10
+    ,"IndependentCoolingTime": 1
+    ,"CommonCoolingTime": 0
+  }
+  ,{
+    "Id": 20101
+    ,"Name": "弗兰肯斯坦召唤物普攻"
+    ,"Interrupt": 1
+    ,"SpellActionType": 0
+    ,"MPTriggerConsumption": 10
+    ,"MPTimeConsumption": 10
+    ,"IndependentCoolingTime": 1
+    ,"CommonCoolingTime": 0
+  }
+]

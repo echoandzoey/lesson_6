@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <数据工具>
+    <Excel目录>./Excel</Excel目录>
+    <Excel渠道树>./</Excel渠道树>
+    <服务器数据目录>./Json</服务器数据目录>
+  </数据工具>
+</Root>

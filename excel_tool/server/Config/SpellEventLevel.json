@@ -1,0 +1,287 @@
+[
+  {
+    "int": 10101011
+    ,"SpellEventId": 1010101
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10101021
+    ,"SpellEventId": 1010102
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10101031
+    ,"SpellEventId": 1010103
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10102011
+    ,"SpellEventId": 1010201
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10103011
+    ,"SpellEventId": 1010301
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10201011
+    ,"SpellEventId": 1020101
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10201021
+    ,"SpellEventId": 1020102
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10201031
+    ,"SpellEventId": 1020103
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10202011
+    ,"SpellEventId": 1020201
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10203011
+    ,"SpellEventId": 1020301
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10302011
+    ,"SpellEventId": 1030201
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 100
+    ,"Suppress": 100
+    ,"Curse": 100
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10303011
+    ,"SpellEventId": 1030301
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 100
+    ,"Suppress": 100
+    ,"Curse": 100
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10501011
+    ,"SpellEventId": 1050101
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 100
+    ,"Suppress": 100
+    ,"Curse": 100
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10601011
+    ,"SpellEventId": 1060101
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10701011
+    ,"SpellEventId": 1070101
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10701021
+    ,"SpellEventId": 1070102
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 10701031
+    ,"SpellEventId": 1070103
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 200
+    ,"Suppress": 200
+    ,"Curse": 200
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 20101011
+    ,"SpellEventId": 2010101
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 100
+    ,"Suppress": 100
+    ,"Curse": 100
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+  ,{
+    "int": 20102011
+    ,"SpellEventId": 2010201
+    ,"SpellEventLevel": 1
+    ,"ConsumeMP": 1
+    ,"AttackAdd": 1
+    ,"Crit": 100
+    ,"Suppress": 100
+    ,"Curse": 100
+    ,"ActivatePoint": 2
+    ,"ActivateCoin": 100
+    ,"BuffGroupLevel": 1
+    ,"BreakedBuffGroupLevel": 2
+    ,"CritDamage": 2
+  }
+]
